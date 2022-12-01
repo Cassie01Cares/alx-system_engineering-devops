@@ -1,3 +1,2 @@
-#! /bin/bash
-echo "$Pwd"
-
+#!/bin/bash
+echo pwd
